@@ -44,8 +44,8 @@ The purpose of this project is to demonstrate your skills in using Spring Boot f
 First, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/spring-boot-course.git
-cd sb-ecom
+git clone https://github.com/caovanban2k/E-commerce-application
+
 ```
 
 ### Contact
