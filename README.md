@@ -48,6 +48,62 @@ git clone https://github.com/caovanban2k/E-commerce-application
 
 ```
 
+## API Picture
+
+### Login API :
+
+Login:
+
+![Alt text](/images/login-with-user.PNG)
+
+Signout :
+
+![Alt text](/images/Signout.PNG)
+
+Get Username:
+
+![Alt text](/images/Get-Username.PNG)
+
+Get Username Details:
+
+![Alt text](/images/Get-Username-Detail.PNG)
+
+Register:
+
+![Alt text](/images/Register-User.PNG)
+
+### Category API
+
+Get All Categoies:
+
+![Alt text](/images/Get-All-Category.PNG)
+
+Delete Category Without Authentication:
+
+![Alt text](/images/Delete-Category-Without-Auth.PNG)
+
+Delete Category:
+
+![Alt text](/images/Delete-Category.PNG)
+
+### Product API
+
+Get All Products:
+
+![Alt text](/images/Get-All-Product.PNG)
+
+Get Products By Category:
+
+![Alt text](/images/Get-Product-By-Category.PNG)
+
+Get Products By Keyword:
+
+![Alt text](/images/Get-Product-By-Keyword.PNG)
+
+Delete Product By Id:
+
+![Alt text](/images/Delete-Product-ById.PNG)
+
 ### Contact
 
 For more inforemation, feel free to reach out to:
